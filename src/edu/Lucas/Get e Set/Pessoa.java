@@ -1,3 +1,4 @@
+package edu.Lucas;
 public class Pessoa {
     //Atributos
     private String nome = "Lucas";
@@ -29,5 +30,5 @@ public class Pessoa {
     public void setAltura(double altura) {
         this.altura = altura;
     }
-    
+
 }
